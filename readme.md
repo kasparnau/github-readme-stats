@@ -707,7 +707,7 @@ Since the GitHub API only allows 5k requests per hour, my `https://github-readme
 3.  Sign in with GitHub by pressing `Continue with GitHub`.
     ![](https://files.catbox.moe/b9oxey.png)
 4.  Sign in to GitHub and allow access to all repositories if prompted.
-5.  Fork this repo.
+5.  Fork this repo!
 6.  Go back to your [Vercel dashboard](https://vercel.com/dashboard).
 7.  To import a project, click the `Add New...` button and select the `Project` option.
     ![](https://files.catbox.moe/3n76fh.png)
